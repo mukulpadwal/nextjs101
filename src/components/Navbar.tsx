@@ -26,7 +26,6 @@ export default function Navbar({ className }: { className?: string }) {
             <HoveredLink href="/interface-design">Interface Design</HoveredLink>
             <HoveredLink href="/seo">Search Engine Optimization</HoveredLink>
             <HoveredLink href="/branding">Branding</HoveredLink>
-            <HoveredLink href="/branding">Branding</HoveredLink>
           </div>
         </MenuItem>
         <Link href={"/contact"}>
